@@ -1,5 +1,5 @@
 public class Banana extends GoodsAndServices {
-    //Single Responsibility Principle - предназначен исключительно для бананов.
+    //Single Responsibility Principle - Класс предназначен исключительно для бананов.
     private final String name = "Бананы";
     private final int price = 89;
     private final String measureUnit = "кг.";
